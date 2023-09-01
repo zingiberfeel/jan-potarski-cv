@@ -11,6 +11,7 @@
     "@fontsource-variable/montserrat": "^5.0.4",
     "@fontsource/merriweather": "^5.0.3",
     "gatsby": "^5.12.3",
+    "gatsby-cli": "^5.12.0",
     "gatsby-plugin-feed": "^5.12.0",
     "gatsby-plugin-image": "^3.12.0",
     "gatsby-plugin-manifest": "^5.12.0",
@@ -28,7 +29,10 @@
     "gatsby-transformer-sharp": "^5.12.0",
     "prismjs": "^1.29.0",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "sharp": "^0.32.5",
+    "typography": "^0.16.24",
+    "typography-theme-wordpress-2016": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "^2.8.8"
